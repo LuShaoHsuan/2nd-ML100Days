@@ -79,3 +79,6 @@ __pycache__
 
 # data
 data/
+
+# notebook checkpoint
+.ipynb_checkpoints/
