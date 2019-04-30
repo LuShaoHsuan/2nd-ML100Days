@@ -59,14 +59,14 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+# Editor
+.idea/
+
 # Editor-based Rest Client
 .idea/httpRequests
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
-
-# Editor
-.idea/
 
 # Python venv
 venv/
@@ -82,3 +82,7 @@ data/
 
 # notebook checkpoint
 .ipynb_checkpoints/
+
+#
+tests/
+tutorial/
