@@ -79,10 +79,8 @@ __pycache__
 
 # data
 data/
+tests/
+tutorial/
 
 # notebook checkpoint
 .ipynb_checkpoints/
-
-#
-tests/
-tutorial/
